@@ -1,0 +1,4 @@
+PyQt5==5.15.9
+PyQt5-stubs==5.15.6.0
+pyqt5-tools==5.15.9.3.3
+yagmail==0.15.293
