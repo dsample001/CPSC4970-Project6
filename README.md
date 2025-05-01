@@ -28,3 +28,7 @@ This project uses PyQt5 to create an interface fo the Curling League Manager.
         Update a member (the member's name and email can be input directly in this window)
 
 Your editors can be modal or not, your choice, but if you use non-modal windows, be careful to properly handle loading a new database (it should close all editor windows except the main window).
+
+## ScreenShots
+<img src="https://github.com/dsample001/CPSC4970-Project6/blob/main/Docs/Capture.JPG?raw=true" width="600">
+
