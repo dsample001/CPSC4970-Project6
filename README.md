@@ -10,7 +10,7 @@ This is Project 6 for CPSC-4970 Python for Daniel Sample.
 
 ## Project Details
 
-This project uses PyQt5 to create an interface fo the Curling League Manager.
+This project uses PyQt5 to create an interface fo the Curling League Manager.  Project is still in work.....
 
 ## Project Requirements
 
